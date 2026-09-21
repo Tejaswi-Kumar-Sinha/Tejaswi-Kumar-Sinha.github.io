@@ -37,20 +37,20 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - item: English
       
 
-    - idiom: Hindi
+    - item: Hindi
       
 
-    - idiom: Telugu
+    - item: Telugu
       
 
   interests:
     title: Interests
     info:
-     - idiom: Reading Books
-      level: For Self-Growth
+  - idiom: Reading Books
+     level: For Self-Growth
 
     - idiom: Yoga/Breathing Exercises
       level: To be Fit and Present
