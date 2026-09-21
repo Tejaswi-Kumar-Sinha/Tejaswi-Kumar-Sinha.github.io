@@ -63,28 +63,21 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Integrated M.Tech in Geophysical Technology
+    university: Indian Institute of Technology (IIT) Roorkee
+    time: 2026 - Present
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Currently pursuing my dual degree as a first-year student.
+  - degree: Intermediate (Class 12th) - BIEAP
+    university: Sri Chaitanya Jr College , Visakhapatnam
+    time: 2024 - 2026
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Graduated with 93.5%.
+  - degree: Class 10th (ICSE)
+    university: St. Ann's E.M School , Visakhapatnam
+    time: 2023 - 2024
+    details: |
+     Graduated with 96.5%.
 
 experiences:
   title: Experiences
