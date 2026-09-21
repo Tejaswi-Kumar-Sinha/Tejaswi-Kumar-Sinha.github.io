@@ -38,27 +38,22 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: 
+      
 
-    - idiom: French
-      level: 
+    - idiom: Hindi
+      
 
-    - idiom: Spanish
-      level: 
+    - idiom: Telugu
+      
 
   interests:
     title: Interests
     info:
-    - item: Reading Books
-      link: for self growth
+     - idiom: Reading Books
+      level: For Self-Growth
 
-
-    - item: Yoga/breathing exercises 
-      link: To be fit
-
-
-    - item: 
-      link:
+    - idiom: Yoga/Breathing Exercises
+      level: To be Fit and Present
 
 
 career-profile:
